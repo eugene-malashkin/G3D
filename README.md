@@ -7,3 +7,5 @@
 
 * Away3D
 * JSONLite
+
+Результат можно посмотреть на http://eugene-malashkin.appspot.com/.
